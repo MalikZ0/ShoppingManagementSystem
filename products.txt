@@ -1,0 +1,1 @@
+ID: P004, Product Name: TV, Stock: 5, Price: $700.0, Brand: Sony, Warranty Period(months): 36

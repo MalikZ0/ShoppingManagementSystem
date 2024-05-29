@@ -1,0 +1,5 @@
+ID: a100, Product Name: phone, Stock: 20, Price: $100.0, Brand: hcl, Warranty Period(months): 6
+ID: a20, Product Name: lap, Stock: 30, Price: $51.0, Brand: azus, Warranty Period(months): 4
+ID: b10, Product Name: aw, Stock: 21, Price: $20.0, Brand: 30, Warranty Period(months): 10
+ID: a12, Product Name: socks, Stock: 20, Price: $100.0, Size: xl, Color: red
+ID: v, Product Name: shirt, Stock: 20, Price: $100.0, Size: xl, Color: red
